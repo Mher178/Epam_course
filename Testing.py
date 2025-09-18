@@ -8,5 +8,5 @@ class Test:
         return result
 
 
-My_Test = Test(3,5)
+My_Test = Test(5,7)
 print(My_Test.new_function())
