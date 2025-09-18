@@ -7,5 +7,6 @@ class Test:
         result = self.first + self.second
         return result
 
+
 My_Test = Test(3,5)
 print(My_Test.new_function())
