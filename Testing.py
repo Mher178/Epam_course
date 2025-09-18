@@ -7,6 +7,5 @@ class Test:
         result = self.first + self.second
         return result
 
-My_Test = Test(4,5)
+My_Test = Test(3,5)
 print(My_Test.new_function())
-k = 9
